@@ -1,0 +1,19 @@
+# ignore popmovie plugin
+Assets/PopMovieTexture
+
+# unity ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.pidb.meta
+sysinfo.txt
